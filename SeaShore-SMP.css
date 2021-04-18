@@ -1,0 +1,246 @@
+.u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/8e96377e0312289441c4af555c4a562e.jpg");
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 941px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-family: Alata;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 58px 317px 0 351px;
+}
+
+.u-section-1-1 .u-text-2 {
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 7px 309px 0 343px;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: linear-gradient(#666666, #808080);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  animation-duration: 1000ms;
+  margin: 77px 309px 0 auto;
+  padding: 11px 53px;
+}
+
+.u-section-1-1 .u-btn-2 {
+  background-image: linear-gradient(#666666, #808080);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  animation-duration: 1000ms;
+  margin: -46px auto 60px 343px;
+  padding: 11px 57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 776px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 541px;
+    margin-top: -598px;
+    margin-right: 217px;
+    margin-left: 251px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 243px;
+    margin-right: 209px;
+    width: 488px;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    margin-top: -51px;
+    margin-right: 109px;
+  }
+
+  .u-section-1-1 .u-btn-2 {
+    margin-left: 143px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 594px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-right: 107px;
+    margin-left: 141px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 133px;
+    margin-right: 99px;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    margin-right: 99px;
+  }
+
+  .u-section-1-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 540px;
+    margin-top: -564px;
+    margin-right: 17px;
+    margin-left: 51px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 43px;
+    margin-right: 9px;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 281px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 340px;
+    margin-top: -442px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 340px;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    margin-right: 0;
+  }
+}.u-section-2-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/171170.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 732px;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-family: Alata;
+  width: 541px;
+  animation-duration: 1000ms;
+  margin: 74px auto 0;
+}
+
+.u-section-2-1 .u-text-2 {
+  width: 837px;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-2-1 .u-btn-1 {
+  background-image: linear-gradient(#666666, #808080);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  animation-duration: 1000ms;
+  margin: 47px auto 60px;
+  padding: 11px 57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 604px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 347px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 287px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 340px;
+  }
+}.u-block-c680-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-c680-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-c680-4 {
+  position: absolute;
+  right: 0;
+}.u-block-b0c7-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-b0c7-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-b0c7-4 {
+  position: absolute;
+  right: 0;
+}
